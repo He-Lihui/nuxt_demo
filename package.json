@@ -1,0 +1,12 @@
+{
+  "name": "nuxt_demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nuxt": "^2.15.3"
+  },
+  "scripts": {
+    "dev":"nuxt"
+  }
+}
